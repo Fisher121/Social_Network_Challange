@@ -33,6 +33,6 @@ In order tot test the POST,PUT and DELETE, I used POSTMAN. Social_Network_Challa
 <ul>
  <li>The database is stored on heroku so it can be accessed on different machines.</li>
  <li>The config file contains the host and the port on which the server runs and can be modified.</li>
- <li>The server can be ran using node ./server.js</li>
- <li>Unit tests can be ran using npm test</li>
+ <li>The server runs using node ./server.js</li>
+ <li>Unit tests runs using npm test and require chai.</li>
 </ul>
